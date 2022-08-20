@@ -2,3 +2,6 @@
 
 > Status do progeto: Em desenvolvimento
 
+'''
+node APP.js
+'''
